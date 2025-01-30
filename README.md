@@ -20,7 +20,7 @@ It is built using **Power BI**, connecting to Superstore data and extracted only
 
 ## Prerequisites
 
-To use this dashboard, you need the following:
+To use this dashboard, I need the following:
 
 1. **Power BI Desktop** or another compatible BI tool (if working locally).
 2. **Sales data** in a structured format (e.g., CSV, Excel, SQL Database).
@@ -75,12 +75,9 @@ Use **DAX (Data Analysis Expressions)** to create calculated columns or measures
 
 - **Data Refresh**: Set up a data refresh schedule to keep the dashboard up to date with the latest sales information.
 - **User Access**: Define roles and permissions for different users to ensure sensitive data is protected.
-- **Optimize Performance**: If you have large datasets, use aggregations, and optimize data models to improve the dashboard’s performance.
+- **Optimize Performance**: If we have large datasets, use aggregations, and optimize data models to improve the dashboard’s performance.
 
-## Troubleshooting
 
-- **Data Connection Issues**: Ensure your data source is accessible and that credentials are set up correctly.
-- **Performance Issues**: If the dashboard is slow, try reducing the data volume, optimizing queries, or using incremental data loading.
 
 
 
